@@ -1,7 +1,6 @@
 {
   "name": "personal-use",
   "version": "4.5.0",
-  "description": "https://discord.gg/gointerstellar",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
